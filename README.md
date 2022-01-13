@@ -1,6 +1,6 @@
 ### Oii Sou o William, aprendendo programação e descobrindo tecnologias novas!
 <div align="center">
-  <a href="beacons.ai/williammoraesdeassis">
+  <a href="https://beacons.ai/williammoraesdeassis">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=williammoraesdeassis&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammoraesdeassis&layout=compact&langs_count=7&theme=gotham"/>
 </div>
