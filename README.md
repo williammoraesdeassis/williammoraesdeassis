@@ -1,23 +1,44 @@
-### Oii Sou o William, aprendendo programação e descobrindo tecnologias novas!
-<div align="center">
-  <a href="https://beacons.ai/williammoraesdeassis">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=williammoraesdeassis&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!--<img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-</div>
-  
-  ##
- 
-<div> 
-    <a href="https://www.linkedin.com/in/williammoraesdeassis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UCMOME3UnXz-ZmDNRg8WxzGg/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/williammoraesdeassis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:williammoraesdeassis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
+
+# 👋 Olá! Seja bem-vindo(a) ao meu GitHub, Eu sou o William
+
+Sou um profissional apaixonado por tecnologia, dados e melhoria contínua. Aqui você encontrará projetos que refletem minha jornada de aprendizado e aplicação prática nas áreas de:
+
+- 🛠️ Ciência de Dados
+- 🧠 Inteligência Artificial
+- 🏗️ Gestão de Processos e Projetos
+- 📊 Análise de Dados e BI
+- 💡 Automação e Soluções com Python
+
+---
+
+## 📌 Estatísticas e Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williammoraesdeassis&layout=compact&langs_count=8&theme=tokyonight)
+
+---
+
+## 📈 Minhas Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williammoraesdeassis&show_icons=true&theme=tokyonight&count_private=true)
+
+---
+
+## 🚀 Tecnologias que mais utilizo
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Excel VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## ✉️ Contato
+
+- [LinkedIn](https://www.linkedin.com/in/williammoraesdeassis)
+- Email: williammoraesdeassis@gmail.com
+
+---
+
+*Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios e contribuir!*
+
