@@ -3,11 +3,7 @@
 
 Sou um profissional apaixonado por tecnologia, dados e melhoria contínua. Aqui você encontrará projetos que refletem minha jornada de aprendizado e aplicação prática nas áreas de:
 
-- 🛠️ Ciência de Dados
-- 🧠 Inteligência Artificial
 - 🏗️ Gestão de Processos e Projetos
-- 📊 Análise de Dados e BI
-- 💡 Automação e Soluções com Python
 
 ---
 
